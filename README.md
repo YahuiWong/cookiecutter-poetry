@@ -47,7 +47,7 @@ Github repository to the `cookiecutter` command:
 
 ```bash
 pip install cookiecutter
-cookiecutter https://github.com/fpgmaas/cookiecutter-poetry.git
+cookiecutter https://github.com/YahuiWong/cookiecutter-poetry.git
 ```
 
 Create a repository on GitHub, and then run the following commands, replacing `<project-name>`, with the name that you gave the Github repository and
